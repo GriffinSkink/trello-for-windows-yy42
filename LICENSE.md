@@ -1,4 +1,4 @@
-# 
+# ClickUp for Windows exclusive Extension: voice-input & checklists offers the most advanced ClickUp for Windows extension, with voice-input and checklists. Ideal for Windows
 
 
 
